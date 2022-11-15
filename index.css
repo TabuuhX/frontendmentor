@@ -35,7 +35,7 @@ img{
     padding: 30px;
 }
 .button{
-    height: 45px;
+    height: 40px;
     width: 220px;
     background: #3D8168;
     border-radius: 6px;
@@ -49,6 +49,7 @@ img{
     font-size: 13px;
 }
 .button:hover{
+    transition: 100ms;
     cursor: pointer;
     background-color: #1A4031;
 }
